@@ -1,4 +1,4 @@
-# @joebowbeer/regsync
+# @uswitch/regsync - forked from @joebowbeer/regsync
 Publish package versions from one registry into another.
 
 ## Setup
